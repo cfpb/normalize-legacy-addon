@@ -1,7 +1,8 @@
 normalize-legacy-addon
 ======================
 
-An add-on to [normalize.css][normalize] that adds back v1 legacy browser support.
+An add-on to [normalize.css][normalize] that backfills v1 legacy browser support.
+It is built to be combined with newer versions of [normalize.css][normalize].
 
 Adds back deletions from the following [normalize.css][normalize] commits:
 
